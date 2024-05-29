@@ -6,5 +6,5 @@ Website for English Sandhyavandanam with logical explanation for the Mantras and
 .
 .
 Credits: website by Jeevan Akash Kanniganti 
-If errors are found, please contact: "jkanniganti@gmail.com"
-[Ill be using some amount of telugu in this project]
+If errors are found, please contact: "jkanniganti@gmail.com" 
+[Ill be using some amount of Telugu in this project]
